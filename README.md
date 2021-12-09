@@ -33,3 +33,16 @@ Genres was by far the easiest out of all of the data points I picked to analyze.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 # Visualization
+
+![Platform Graphic](https://user-images.githubusercontent.com/91548816/145469867-b2048f3c-2fad-43be-865b-a63618e07321.PNG)
+
+![Genre graphic](https://user-images.githubusercontent.com/91548816/145469874-0e65461b-6eb4-487d-93c9-2130e055af2e.PNG)
+
+These 2 parts of the data are included into a graph to show A graphic version of the data I was observing. The reason I concluded these two and not publishers is because there was a lot more publishers than there was these. If I did publishers, I would have to have shortened it down significant. Ultimately it didn't feel necessary to add publishers as it was very clear that nintendo was the top of that data.  Also the important part about adding these 2 is their correlation with the best ranking game. With the publisher data nintendo ranked the top to the top so it hit my expectation. With these two data points however it doesn't do that. With console, The results I was focusing on ranked 3rd place. And the result I was looking at for genre was 2nd place.
+
+Still that doesn't mean that the data is nullified and has nothing to do with why we sports ranked number one. In fact because these are all so high on their own rankings it tells us a lot about how the combination of these 3 very much had to do with its spot at number one.
+
+So inconclusion I can say that that the genre the platform and the publisher did have something to do with the rank one for game sales.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+# Analysis
